@@ -11479,6 +11479,8 @@ body {
 .sb-sidenav .sb-sidenav-footer {
   padding: 0.75rem;
   flex-shrink: 0;
+  color: red;
+  text-decoration color: red;
 }
 
 .sb-sidenav-dark {
